@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#c4de8a;
+}
+table, td, th{
+	border: 1px solid #000;
+}
+p{
+	text-align:center;
+}
+.imageContainer{
+	width:1100px;
+}
+#row1{
+	width:200px;
+}
+#row2{
+	width:600px;
+}
